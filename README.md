@@ -9,6 +9,16 @@ This is the official repo for Multimodal Integration and Linear Enhanced Transfo
 ```
 pip install -r requirements.txt
 ```
+## Generate the VMD-SE-"DATA".csv dataset
+
+1. Please get the five areas from the open source python library data sets from
+   https://github.com/jeslago/epftoolbox
+   
+2. Store the data set in the VMD-SE folder. Run the main file in the VMD-SE part to generate the VMD-SE data set and add it to the data folder in the upper level. If no, create it.
+
+## Run MILET
+
+1. Run the "run.py" file after completing the above steps to get the results of MILET.
 
 ## Acknowledgement
 

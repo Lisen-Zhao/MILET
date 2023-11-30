@@ -20,13 +20,9 @@ pip install -r requirements.txt
 
 1. Run the "run.py" file after completing the above steps to get the results of MILET.
 
-## Other models
-
-Thanks to the previous integration of Transformer models in time series forecasting, this model is based on the integration package, which also contains Transformer models with the best performance in recent years.
-
 ## Acknowledgement
 
-We appreciate the following repos for their valuable code base or datasets:
+We appreciate the following repos for their valuable code base:
 
 https://github.com/daxin007/Client
 

@@ -23,7 +23,7 @@ if __name__ == '__main__':
     parser.add_argument('--is_training', type=int, default=1, help='status')
     parser.add_argument('--model_id', type=str, default='test', help='model id')
     parser.add_argument('--model', type=str, default='MILET',
-                        help='model name, options: [Autoformer, Transformer, TimesNet,]')
+                        help='model name, options: [MILET]')
 
     # data loader
     parser.add_argument('--data', type=str, default='Price_DE', help='dataset type')
